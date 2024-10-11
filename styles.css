@@ -1,2 +1,9 @@
 
 /* Your CSS Code here. */
+ul {
+	display: flex;
+	justify-content: space-around;
+}
+li {
+	list-style: none;
+}
